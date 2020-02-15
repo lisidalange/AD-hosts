@@ -1,12 +1,3 @@
-#*********************************************************************
-# https://github.com/E7KMbb/AD-hosts
-# 本hosts由多个hosts整合而来hosts源均来自于github，及网络搜索
-#*********************************************************************
-127.0.0.1 localhost
-127.0.0.1 ip6-localhost
-127.0.0.1 ip6-loopback
-::1        ip6-localhost
-
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 006.free-adult-counters.x-xtra.com
